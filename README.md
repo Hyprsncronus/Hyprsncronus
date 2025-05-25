@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shanto</h1>
 <h3 align="center">A EEE student from Bangladesh</h3>
 
-- 🔭 I’m currently working on **A PLC app**
+- 🔭 I’m currently working on **A PLC OS**
 
 - 🌱 I’m currently learning **Python, Cpp, Rust**
 
